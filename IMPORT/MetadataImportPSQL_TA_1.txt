@@ -1,0 +1,8 @@
+﻿top down	transportasi	motor	2010
+top down	transportasi	mobil	2010
+top down	transportasi	bus	2010
+top down	transportasi	truk	2010
+bottom up	transportasi	motor	2010
+bottom up	transportasi	mobil	2010
+bottom up	transportasi	bus	2010
+bottom up	transportasi	truk	2010
